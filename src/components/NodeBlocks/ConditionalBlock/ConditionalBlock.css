@@ -1,0 +1,14 @@
+.conditionalBlock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  transform: rotate(45deg);
+}
+
+.text {
+  width: 80%;
+  transform: rotate(-45deg);
+}
